@@ -17,7 +17,7 @@ Open http://localhost:3000 to view it in your browser if it did no automatically
 
 A. HOW TO REQUEST DATA:  
 
-Enter a URL as instructed and click submit:
+Enter a URL as instructed and click submit.  Example call: https://www.foodnetwork.com/recipes/food-network-kitchen/grilled-baba-ganoush-9911523
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/53350691/180659653-1c1e6261-630d-4e58-8e0a-ab3df848ded8.png">
 
